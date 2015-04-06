@@ -4,3 +4,11 @@
 //test//
 #test
 #test
+<<<<<<< HEAD
+#testtest
+#test#test
+=======
+aaa
+bbb
+ccc
+>>>>>>> origin/bug

@@ -1,14 +1,3 @@
-#test
-#test
-#test
-//test//
-#test
-#test
-<<<<<<< HEAD
-#testtest
-#test#test
-=======
+ccccccc
+bbbbb
 aaa
-bbb
-ccc
->>>>>>> origin/bug
